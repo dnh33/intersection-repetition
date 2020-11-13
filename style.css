@@ -1,0 +1,9 @@
+.observeMe {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+}
+
+.observeMe:nth-of-type(even) {
+    background-color: yellowgreen;
+}
